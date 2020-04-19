@@ -1,0 +1,1 @@
+find src/com/codecool -name "*.java" > production.txt && mkdir -p out/production && javac @production.txt -d out/production && java -cp out/production/ com.codecool.Main

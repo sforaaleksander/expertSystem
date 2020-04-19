@@ -1,0 +1,13 @@
+src/com/codecool/RuleParser.java
+src/com/codecool/FactParser.java
+src/com/codecool/repository/RuleRepository.java
+src/com/codecool/repository/FactRepository.java
+src/com/codecool/Main.java
+src/com/codecool/ESProvider.java
+src/com/codecool/models/SingleValue.java
+src/com/codecool/models/Question.java
+src/com/codecool/models/Value.java
+src/com/codecool/models/Answer.java
+src/com/codecool/models/MultipleValue.java
+src/com/codecool/models/Fact.java
+src/com/codecool/XMLParser.java

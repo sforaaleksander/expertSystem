@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Facts>
+	<Fact id="husky">
+		<Description value="Siberian Husky"/>
+		<Evals>
+			<Eval id="energetic">true</Eval>
+			<Eval id="obedient">false</Eval>
+			<Eval id="agressive">true</Eval>
+			<Eval id="balanced">false</Eval>
+		</Evals>	
+	</Fact>
+
+	<Fact id="german">
+		<Description value="German Shephard"/>
+		<Evals>
+			<Eval id="energetic">true</Eval>
+			<Eval id="obedient">true</Eval>
+			<Eval id="agressive">false</Eval>
+			<Eval id="balanced">true</Eval>
+		</Evals>	
+	</Fact>
+
+	<Fact id="greyhound">
+		<Description value="Greyhound"/>
+		<Evals>
+			<Eval id="energetic">true</Eval>
+			<Eval id="obedient">false</Eval>
+			<Eval id="agressive">true</Eval>
+			<Eval id="balanced">true</Eval>
+		</Evals>	
+	</Fact>
+
+	<Fact id="shitzu">
+		<Description value="Shitzu"/>
+		<Evals>
+			<Eval id="energetic">false</Eval>
+			<Eval id="obedient">false</Eval>
+			<Eval id="agressive">true</Eval>
+			<Eval id="balanced">false</Eval>
+		</Evals>	
+	</Fact>
+
+	<Fact id="doberman">
+		<Description value="Doberman"/>
+		<Evals>
+			<Eval id="energetic">true</Eval>
+			<Eval id="obedient">true</Eval>
+			<Eval id="agressive">true</Eval>
+			<Eval id="balanced">true</Eval>
+		</Evals>	
+	</Fact>
+
+	<Fact id="buldog">
+		<Description value="French Buldog"/>
+		<Evals>
+			<Eval id="energetic">false</Eval>
+			<Eval id="obedient">false</Eval>
+			<Eval id="agressive">false</Eval>
+			<Eval id="balanced">false</Eval>
+		</Evals>	
+	</Fact>
+
+	<Fact id="terier">
+		<Description value="Black Russian Terrier"/>
+		<Evals>
+			<Eval id="energetic">true</Eval>
+			<Eval id="obedient">true</Eval>
+			<Eval id="agressive">false</Eval>
+			<Eval id="balanced">false</Eval>
+		</Evals>	
+	</Fact>
+
+	<Fact id="bernard">
+		<Description value="St. Bernard"/>
+		<Evals>
+			<Eval id="energetic">false</Eval>
+			<Eval id="obedient">true</Eval>
+			<Eval id="agressive">false</Eval>
+			<Eval id="balanced">true</Eval>
+		</Evals>	
+	</Fact>
+
+		<Fact id="bloodhound">
+		<Description value="Bloodhound"/>
+		<Evals>
+			<Eval id="energetic">false</Eval>
+			<Eval id="obedient">false</Eval>
+			<Eval id="agressive">false</Eval>
+			<Eval id="balanced">true</Eval>
+		</Evals>	
+	</Fact>
+</Facts>
+
+

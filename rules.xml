@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Rules>
+	<Rule id="energetic">
+		<Question>Do you do sports?</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="yes"/>
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="no"/>
+			</Selection>
+		</Answer>
+	</Rule>
+
+	<Rule id="obedient">
+		<Question>Do you enjoy being a leader?</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="yes"/>
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="no"/>
+			</Selection>
+		</Answer>
+	</Rule>
+
+	<Rule id="agressive">
+		<Question>Do you get angry easily?</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="yes"/>
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="no"/>
+			</Selection>
+		</Answer>
+	</Rule>
+
+	<Rule id="balanced">
+		<Question>Are you a balanced person?</Question>
+		<Answer>
+			<Selection value="true">
+				<SingleValue value="yes"/>
+			</Selection>
+			<Selection value="false">
+				<SingleValue value="no"/>
+			</Selection>
+		</Answer>
+	</Rule>
+</Rules>
